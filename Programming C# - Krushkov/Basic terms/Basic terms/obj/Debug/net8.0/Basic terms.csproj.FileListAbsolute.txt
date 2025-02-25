@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\bin\Debug\net8.0\Basic terms.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\bin\Debug\net8.0\Basic terms.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\bin\Debug\net8.0\Basic terms.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\bin\Debug\net8.0\Basic terms.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\bin\Debug\net8.0\Basic terms.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\refint\Basic terms.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\Basic terms.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Programming C# - Krushkov\Basic terms\Basic terms\obj\Debug\net8.0\ref\Basic terms.dll

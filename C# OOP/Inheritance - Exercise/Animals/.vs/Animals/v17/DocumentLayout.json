@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:tomcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\kittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:kittens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CD77D3-7A79-4093-B7B0-387F70C591E0}|Animals.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:46:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "Tomcat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Tomcat.cs",
+              "RelativeToolTip": "Tomcat.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:58.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kittens.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Kittens.cs",
+              "RelativeDocumentMoniker": "Kittens.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Kittens.cs",
+              "RelativeToolTip": "Kittens.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:15.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Frog.cs",
+              "RelativeDocumentMoniker": "Frog.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Frog.cs",
+              "RelativeToolTip": "Frog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:18:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:18:46.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

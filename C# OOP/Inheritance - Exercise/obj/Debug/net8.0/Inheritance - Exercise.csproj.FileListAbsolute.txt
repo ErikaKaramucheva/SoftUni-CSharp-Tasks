@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\bin\Debug\net8.0\Inheritance - Exercise.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\bin\Debug\net8.0\Inheritance - Exercise.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\bin\Debug\net8.0\Inheritance - Exercise.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\bin\Debug\net8.0\Inheritance - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\bin\Debug\net8.0\Inheritance - Exercise.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\refint\Inheritance - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\Inheritance - Exercise.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\obj\Debug\net8.0\ref\Inheritance - Exercise.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\bin\Debug\net8.0\Sample Coding Questions For Interview.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\bin\Debug\net8.0\Sample Coding Questions For Interview.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\bin\Debug\net8.0\Sample Coding Questions For Interview.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\bin\Debug\net8.0\Sample Coding Questions For Interview.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\bin\Debug\net8.0\Sample Coding Questions For Interview.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\refint\Sample Coding Questions For Interview.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\Sample Coding Questions For Interview.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Coding Questions For Technical Interview\Sample Coding Questions For Interview\obj\Debug\net8.0\ref\Sample Coding Questions For Interview.dll

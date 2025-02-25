@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\bin\Debug\net8.0\While Loop - Exercise.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\bin\Debug\net8.0\While Loop - Exercise.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\bin\Debug\net8.0\While Loop - Exercise.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\bin\Debug\net8.0\While Loop - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\bin\Debug\net8.0\While Loop - Exercise.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\refint\While Loop - Exercise.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\While Loop - Exercise.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\While Loop - Exercise\obj\Debug\net8.0\ref\While Loop - Exercise.dll

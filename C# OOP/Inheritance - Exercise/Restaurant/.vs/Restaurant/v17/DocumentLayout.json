@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB95F5C-F1C8-4B11-A33B-81442A06D585}|Restaurant.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\restaurant\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB95F5C-F1C8-4B11-A33B-81442A06D585}|Restaurant.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB95F5C-F1C8-4B11-A33B-81442A06D585}|Restaurant.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB95F5C-F1C8-4B11-A33B-81442A06D585}|Restaurant.csproj|solutionrelative:cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Restaurant\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Restaurant\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:41:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Restaurant\\Cake.cs",
+              "RelativeDocumentMoniker": "Cake.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Restaurant\\Cake.cs",
+              "RelativeToolTip": "Cake.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:39:28.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

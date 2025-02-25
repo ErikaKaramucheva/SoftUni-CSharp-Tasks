@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\bin\Debug\net8.0\PB - More Exercises - Conditional Statements.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\bin\Debug\net8.0\PB - More Exercises - Conditional Statements.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\bin\Debug\net8.0\PB - More Exercises - Conditional Statements.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\bin\Debug\net8.0\PB - More Exercises - Conditional Statements.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\bin\Debug\net8.0\PB - More Exercises - Conditional Statements.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.sourcelink.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\refint\PB - More Exercises - Conditional Statements.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\PB - More Exercises - Conditional Statements.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\PB - More Exercises - Conditional Statements\obj\Debug\net8.0\ref\PB - More Exercises - Conditional Statements.dll

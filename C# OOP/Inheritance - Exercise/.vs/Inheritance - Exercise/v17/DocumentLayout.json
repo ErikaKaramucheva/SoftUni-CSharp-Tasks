@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|solutionrelative:person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|solutionrelative:person\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\inheritance - exercise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DC48AB84-733B-4643-8301-F0D35D93B1CB}|Inheritance - Exercise.csproj|solutionrelative:inheritance - exercise.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inheritance - Exercise",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Inheritance - Exercise.csproj",
+              "RelativeDocumentMoniker": "Inheritance - Exercise.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Inheritance - Exercise.csproj",
+              "RelativeToolTip": "Inheritance - Exercise.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T14:40:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:59:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:25:48.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "Person\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\Person.cs",
+              "RelativeToolTip": "Person\\Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:00:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\Child.cs",
+              "RelativeDocumentMoniker": "Person\\Child.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\Person\\Child.cs",
+              "RelativeToolTip": "Person\\Child.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:00:15.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

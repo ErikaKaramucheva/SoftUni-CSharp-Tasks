@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\net8.0\NeedForSpeed.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\refint\NeedForSpeed.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\net8.0\ref\NeedForSpeed.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net8.0\PlayersAndMonsters.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net8.0\PlayersAndMonsters.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net8.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net8.0\PlayersAndMonsters.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\net8.0\PlayersAndMonsters.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\refint\PlayersAndMonsters.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\PlayersAndMonsters.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\net8.0\ref\PlayersAndMonsters.dll

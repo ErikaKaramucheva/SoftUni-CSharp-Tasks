@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net8.0\Zoo.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net8.0\Zoo.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net8.0\Zoo.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net8.0\Zoo.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\bin\Debug\net8.0\Zoo.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\refint\Zoo.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\Zoo.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\C# OOP\Inheritance - Exercise\Zoo\obj\Debug\net8.0\ref\Zoo.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\PlayersAndMonsters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0B6F6-7CF7-4CD6-9DFC-3677977CF69F}|PlayersAndMonsters.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0B6F6-7CF7-4CD6-9DFC-3677977CF69F}|PlayersAndMonsters.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B0B6F6-7CF7-4CD6-9DFC-3677977CF69F}|PlayersAndMonsters.csproj|c:\\users\\user\\desktop\\softuni c# tasks\\c# oop\\inheritance - exercise\\playersandmonsters\\soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B0B6F6-7CF7-4CD6-9DFC-3677977CF69F}|PlayersAndMonsters.csproj|solutionrelative:soulmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoulMaster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeDocumentMoniker": "SoulMaster.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\PlayersAndMonsters\\SoulMaster.cs",
+              "RelativeToolTip": "SoulMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:56:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SoftUNI C# tasks\\C# OOP\\Inheritance - Exercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:55:13.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

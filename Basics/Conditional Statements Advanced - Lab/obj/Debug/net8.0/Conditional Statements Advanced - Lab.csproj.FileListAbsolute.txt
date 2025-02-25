@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\bin\Debug\net8.0\Conditional Statements Advanced - Lab.exe
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\bin\Debug\net8.0\Conditional Statements Advanced - Lab.deps.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\bin\Debug\net8.0\Conditional Statements Advanced - Lab.runtimeconfig.json
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\bin\Debug\net8.0\Conditional Statements Advanced - Lab.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\bin\Debug\net8.0\Conditional Statements Advanced - Lab.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\refint\Conditional Statements Advanced - Lab.dll
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.pdb
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\Conditional Statements Advanced - Lab.genruntimeconfig.cache
+C:\Users\user\Desktop\SoftUNI C# tasks\Basics\Conditional Statements Advanced - Lab\obj\Debug\net8.0\ref\Conditional Statements Advanced - Lab.dll
