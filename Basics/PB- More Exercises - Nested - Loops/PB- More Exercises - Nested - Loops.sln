@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB- More Exercises - First Steps In Coding", "PB- More Exercises - First Steps In Coding.csproj", "{56F71113-419C-4819-A7D5-C2194AC9AC31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB- More Exercises - Nested - Loops", "PB- More Exercises - Nested - Loops.csproj", "{BB7E7D60-264C-401A-90F9-2190D50DAAEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56F71113-419C-4819-A7D5-C2194AC9AC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56F71113-419C-4819-A7D5-C2194AC9AC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56F71113-419C-4819-A7D5-C2194AC9AC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56F71113-419C-4819-A7D5-C2194AC9AC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7E7D60-264C-401A-90F9-2190D50DAAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E7D60-264C-401A-90F9-2190D50DAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E7D60-264C-401A-90F9-2190D50DAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E7D60-264C-401A-90F9-2190D50DAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DE60D445-A6FB-476C-B123-11554CCDF6C3}
+		SolutionGuid = {D75DC2F6-4B62-4D82-B408-2ABB252F8C35}
 	EndGlobalSection
 EndGlobal
